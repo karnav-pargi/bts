@@ -1,4 +1,14 @@
 # BTS(Bug Tracking System)
+
+Front-end : 
+  - angularJS
+
+Backend : 
+ - NodeJS
+ - MongoDB
+ - ExpressJS
+ 
+ 
 ```text
 A Bug tracking System is a software management tool help to developers and software industries to make the software’s and web applications
 without bugs and effective cost. Simply a bug tracking system stores a Project and Project’s Bugs details in it. When developer make new 
