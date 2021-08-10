@@ -15,7 +15,7 @@ Backend :
 
 Password Encription :
 
--bcrypt
+- bcrypt
  
  
 ```text
