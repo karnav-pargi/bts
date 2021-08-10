@@ -2,11 +2,20 @@
 
 Front-end : 
   - angularJS
+  - w3css
 
 Backend : 
  - NodeJS
  - MongoDB
  - ExpressJS
+ - Mongoose
+ 
+ Auth Service :
+ - JWT Authentication
+
+Password Encription :
+
+-bcrypt
  
  
 ```text
